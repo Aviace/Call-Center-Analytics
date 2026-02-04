@@ -3,7 +3,7 @@ This project involves extracting insights from call center dataset of PhoneNow c
 
 ## Business Case Problem
 
-![Task Description Mail](C:\Users\Ayush\Pictures\Screenshots\Screenshot 2024-12-28 114658.png)
+A company has been facing decline in customer retention.
 
 ### Possible KPIs
 
