@@ -15,7 +15,8 @@ A company has been facing decline in customer retention.
 
 ## Dashboard Solution
 
-![Call Center Dashboard Solution](C:\Users\Ayush\Pictures\Screenshots\Screenshot 2024-12-28 115651.png)
+![Call Center Dashboard Solution](https://github.com/Aviace/Call-Center-Analytics/blob/main/Call%20center%20dashboard.pbix)
+Download the dashboard to view.
 
 ### Insights
 
